@@ -3,7 +3,7 @@
 私はKinetic Napierです。きねなぴと呼んでください。
 
 ## いろいろ書き連ねるところ 
-- 言語:Python,C#,C++
+- 扱える言語:Python,C#,C++
 - 現在勉強中の言語:Java
 
 ## Stats
